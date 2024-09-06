@@ -86,4 +86,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Võ Thành Nguyễn - thcs2nguyen@gmail.com
 
-Project Link: 
+Project Link: https://github.com/vtnguyen04/Pytorch-Mini-Project/tree/main
